@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>C:\Users\Options\Documents\Atmel Studio\7.0\SPI_Master\SPI_Master\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Options\Documents\Atmel Studio\7.0\SPI_Master\SPI_Master\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Options\Documents\Atmel Studio\7.0\SPI_Master\SPI_Master\Debug\SPI_Master.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>SPI_Master.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>SPI_Master.map</FILE>
+  <FILE>SPI_Master.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\Options\Documents\Atmel Studio\7.0\SPI_Master\SPI_Master\main.asm</FILE><LINE>11</LINE></MAIN>
+  <LOOP><FILE>C:\Users\Options\Documents\Atmel Studio\7.0\SPI_Master\SPI_Master\main.asm</FILE><LINE>35</LINE></LOOP>
+  <DELAY><FILE>C:\Users\Options\Documents\Atmel Studio\7.0\SPI_Master\SPI_Master\main.asm</FILE><LINE>53</LINE></DELAY>
+  <HERE><FILE>C:\Users\Options\Documents\Atmel Studio\7.0\SPI_Master\SPI_Master\main.asm</FILE><LINE>44</LINE></HERE>
+  <L1><FILE>C:\Users\Options\Documents\Atmel Studio\7.0\SPI_Master\SPI_Master\main.asm</FILE><LINE>55</LINE></L1>
+  <L2><FILE>C:\Users\Options\Documents\Atmel Studio\7.0\SPI_Master\SPI_Master\main.asm</FILE><LINE>57</LINE></L2>
+ </LABELS>
+</ASSEMBLER_INFO>
